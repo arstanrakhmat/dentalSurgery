@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DentalSurgeon</string>
+    <string name="dr_oleg_miami">Dr. Oleg Miami</string>
+    <string name="dental_surgeon">Dental surgeon</string>
+    <string name="your_friendly_dental_friend">Your friendly Dental Friend</string>
+    <string name="make_an_appointment">make an appointment</string>
+    <string name="oleg_mayami93_gmail_com">oleg.mayami93@gmail.com</string>
+    <string name="www_dental_com">www.dental.com</string>
+    <string name="whatsapp_me">WhatsApp Me</string>
+    <string name="save_to_phonebook">Save to phonebook</string>
+    <string name="abdumomunova_16">Abdumomunova 16</string>
+    <string name="dental_clinic">Dental Clinic</string>
+    <string name="to_call">To call</string>
+    <string name="our_location">Our location</string>
+    <string name="shopping_center_asia_mall">Shopping Center Asia Mall</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="email_us">Email us</string>
+    <string name="visit_website">Visit website</string>
+    <string name="telegram">Telegram</string>
+    <string name="save_contact">Save contact</string>
+</resources>
